@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+<Users>
+  <user>
+    <id>15</id>
+    <name>Wai Kang Khoo</name>
+    <email>waikang1998@gmail.com</email>
+    <contact>183533142</contact>
+    <gender>M</gender>
+    <address>13-11 IDAMAN PUTERI&#xD;
+NO 4 JALAN 13/21D&#xD;
+MEDAN IDMAN</address>
+    <birthdate>
+      <year>2019</year>
+      <month>07</month>
+      <day>23</day>
+    </birthdate>
+    <role>
+      <id>18</id>
+      <title>Admin</title>
+      <description>Admin</description>
+    </role>
+  </user>
+</Users>
